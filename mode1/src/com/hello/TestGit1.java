@@ -5,5 +5,6 @@ public class TestGit1 {
         System.out.println("hello");
         System.out.println("123456lsh");
         int i=0;
+        double aa;
     }
 }
